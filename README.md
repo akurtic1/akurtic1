@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📖My goal is to learn and explore Cloud Computing. Learning Microsoft Azure at the moment.
+📖My goal is to learn and explore Cloud Computing. Focus on Microsoft Azure.
 
 📘Currently holding AZ-900 (Azure Fundamentals), SC-900 (Security, Compliance, and Identity Fundamentals) & MS-900 (Microsoft 365: Fundamentals) certificates.
 
